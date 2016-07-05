@@ -72,7 +72,8 @@ button {
 }
 
 legend,
-#hint {
+#hint-1,
+#hint-2 {
   display: none;
 }
 
